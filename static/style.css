@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+}
+
+div.rooms {
+  float: left;
+  width: 10%;
+  height: 120px;
+  border: 1px solid #000;
+}
+
+div.rooms td.green {
+  background-color: green; 
+}
+
+div.rooms td.red {
+  background-color: red; 
+}
+
+div.rooms td.orange {
+  background-color: orange; 
+}
